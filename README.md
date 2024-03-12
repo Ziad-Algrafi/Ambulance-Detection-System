@@ -10,6 +10,33 @@ Dataset: A dataset comprising 3000 images of ambulance vehicles from 10 differen
 Layered Architecture: The system architecture consists of multiple layers, including the data acquisition layer (DAL), ambulance detection layer (ADL), monitoring layer (ML), and cloud layer (CL), to support cloud-based ambulance detection.
 
 
+## Data 
+
+| Country              | Data Type | Total Images | Total Labels | Download Link                                                     |
+|----------------------|-----------|--------------|--------------|-------------------------------------------------------------------|
+| Ambulance - Germany  | train     | 200          | 220          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Germany.zip) |
+| Ambulance - Germany  | val       | 100          | 112          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Germany.zip) |
+| Ambulance - Italy    | train     | 200          | 203          | [Download](https://github.com/Ziad-Algrafi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Italy.zip) |
+| Ambulance - Italy    | val       | 100          | 111          | [Download](https://github.com/Ziad-Algrafi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Italy.zip) |
+| Ambulance - Japan    | train     | 200          | 211          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Japan.zip) |
+| Ambulance - Japan    | val       | 100          | 113          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Japan.zip) |
+| Ambulance - Norway   | train     | 200          | 219          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Norway.zip) |
+| Ambulance - Norway   | val       | 100          | 108          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Norway.zip) |
+| Ambulance - Russia   | train     | 200          | 253          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Russia.zip) |
+| Ambulance - Russia   | val       | 100          | 116          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Russia.zip) |
+| Ambulance - Saudi Arabia | train  | 200          | 215          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Saudi%20Arabia.zip) |
+| Ambulance - Saudi Arabia | val    | 100          | 104          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Saudi%20Arabia.zip) |
+| Ambulance - Spain    | train     | 200          | 233          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Spain.zip) |
+| Ambulance - Spain    | val       | 100          | 114          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Spain.zip) |
+| Ambulance - Sweden   | train     | 200          | 216          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/tree/main/Data/Ambulance%20-%20Sweden) |
+| Ambulance - Sweden   | val       | 100          | 112          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/tree/main/Data/Ambulance%20-%20Sweden) |
+| Ambulance - Turkey   | train     | 200          | 250          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/tree/main/Data/Ambulance%20-%20Turkey) |
+| Ambulance - Turkey   | val       | 100          | 111          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/tree/main/Data/Ambulance%20-%20Turkey) |
+| Ambulance - United Kingdom | train | 200        | 286          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20United%20Kingdom.zip) |
+| Ambulance - United Kingdom | val   | 100        | 131          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20United%20Kingdom.zip) |
+
+
+
 ## Models
 
 | Country          | Model Type        | Accuracy - Pre-trained | Accuracy - Non-pre-trained | Models |
