@@ -12,7 +12,7 @@ Layered Architecture: The system architecture consists of multiple layers, inclu
 
 ## Data 
 
-| Country              | Data Type | Total Images | Total Labels | Download Link                                                     |
+| Country              | Data Type | Total Images | Total Labels | Download                                                          |
 |----------------------|-----------|--------------|--------------|-------------------------------------------------------------------|
 | Ambulance - Germany  | train     | 200          | 220          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Germany.zip) |
 | Ambulance - Germany  | val       | 100          | 112          | [Download](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Data/Ambulance%20-%20Germany.zip) |
