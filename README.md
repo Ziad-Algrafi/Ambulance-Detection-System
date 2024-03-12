@@ -1,7 +1,7 @@
-Ambulance Detection System
+#Ambulance Detection System
 This repository contains code and resources for a cloud-based ambulance detection system using YOLOv8.
 
-Overview
+#Overview
 The project aims to minimize ambulance response time to emergency calls by detecting ambulance vehicles and synchronizing them with traffic cameras and signaling systems. The system utilizes machine learning techniques, specifically YOLOv8, for real-time ambulance detection.
 
 Key Features
