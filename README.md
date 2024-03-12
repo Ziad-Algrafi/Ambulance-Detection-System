@@ -1,8 +1,14 @@
-# Ambulance-Detection-System
+Ambulance Detection System
+This repository contains code and resources for a cloud-based ambulance detection system using YOLOv8.
 
-A cloud-based ambulance detection system using YOLOv8 for minimizing ambulance response time. This data was collected in the project of the paper, which is linked down in this project.
+Overview
+The project aims to minimize ambulance response time to emergency calls by detecting ambulance vehicles and synchronizing them with traffic cameras and signaling systems. The system utilizes machine learning techniques, specifically YOLOv8, for real-time ambulance detection.
 
-**Note:** If you intend to use this data in your project, make sure to mention our paper in your project. This data is allowed to be used on the commercial side.
+Key Features
+YOLOv8 Model: The core of the system is the YOLOv8 model, trained to detect ambulance vehicles in real-time.
+Dataset: A dataset comprising 3000 images of ambulance vehicles from 10 different countries is included for training and evaluation purposes.
+Layered Architecture: The system architecture consists of multiple layers, including the data acquisition layer (DAL), ambulance detection layer (ADL), monitoring layer (ML), and cloud layer (CL), to support cloud-based ambulance detection.
+
 
 ## Models
 
@@ -34,3 +40,21 @@ A cloud-based ambulance detection system using YOLOv8 for minimizing ambulance r
 | Universal - Yolov5 | Custom           | -                      | 0.979                      | [YOLOv5_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Custom.pt) |
 | Universal - Yolov8 | Pre-trained     | 0.982                  | 0.982                      | [YOLOv8_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Pre-trained.pt) |
 | Universal - Yolov8 | Custom           | -                      | 0.982                      | [YOLOv8_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Custom.pt) |
+
+
+
+
+
+
+
+
+Usage
+To use the system, follow these steps:
+
+Clone the Repository: Clone this repository to your local machine.
+Dataset: Access the dataset provided in the dataset directory for training and evaluation.
+Model: Use the YOLOv8 model provided in the model directory for ambulance detection.
+Run the System: Deploy the system and integrate it with traffic cameras and signaling systems for real-time ambulance detection.
+
+
+
