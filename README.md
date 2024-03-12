@@ -28,6 +28,9 @@ A cloud-based ambulance detection system using YOLOv8 for minimizing ambulance r
 | Turkey           | Custom            | -                      | 0.944                      | [Turkey_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Turkey/Turkey_Custom.pt) |
 | United Kingdom   | Pre-trained       | 0.987                  | -                          | [United-Kingdom_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Pre-trained.pt) |
 | United Kingdom   | Custom            | -                      | 0.972                      | [United-Kingdom_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Custom.pt) |
-| Universal - Yolov7 | Pre-trained     | 0.953                  | -                          | -    |
-| Universal - Yolov5 | Pre-trained     | 0.979                  | -                          | -    |
-| Universal - Yolov8 | Pre-trained     | 0.982                  | -                          | -    |
+| Universal - Yolov7 | Pre-trained     | 0.953                  | -                          | [YOLOv7_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Pre-trained.pt) |
+| Universal - Yolov7 | Custom           | -                      | -                          | [YOLOv7_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Custom.pt) |
+| Universal - Yolov5 | Pre-trained     | 0.979                  | -                          | [YOLOv5_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Pre-trained.pt) |
+| Universal - Yolov5 | Custom           | -                      | -                          | [YOLOv5_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Custom.pt) |
+| Universal - Yolov8 | Pre-trained     | 0.982                  | -                          | [YOLOv8_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Pre-trained.pt) |
+| Universal - Yolov8 | Custom           | -                      | -                          | [YOLOv8_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Custom.pt) |
