@@ -63,9 +63,9 @@ Layered Architecture: The system architecture consists of multiple layers, inclu
 | United Kingdom   | Custom            | -                      | 0.972                      | [United-Kingdom_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Custom.pt) |
 | Universal - Yolov7 | Pre-trained     | 0.953                  | -                           | [YOLOv7_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Pre-trained.pt) |
 | Universal - Yolov7 | Custom           | -                      | 0.953                      | [YOLOv7_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Custom.pt) |
-| Universal - Yolov5 | Pre-trained     | 0.979                  | 0.979                      | [YOLOv5_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Pre-trained.pt) |
+| Universal - Yolov5 | Pre-trained     | 0.979                  |                             | [YOLOv5_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Pre-trained.pt) |
 | Universal - Yolov5 | Custom           | -                      | 0.979                      | [YOLOv5_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Custom.pt) |
-| Universal - Yolov8 | Pre-trained     | 0.982                  | 0.982                      | [YOLOv8_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Pre-trained.pt) |
+| Universal - Yolov8 | Pre-trained     | 0.982                  |                            | [YOLOv8_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Pre-trained.pt) |
 | Universal - Yolov8 | Custom           | -                      | 0.982                      | [YOLOv8_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Custom.pt) |
 
 
