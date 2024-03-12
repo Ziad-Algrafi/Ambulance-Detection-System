@@ -55,18 +55,18 @@ Layered Architecture: The system architecture consists of multiple layers, inclu
 | Saudi Arabia     | Custom            |  0.98                  | [Saudi-Arabia_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Saudi%20Arabia/Saudi-Arabia_Custom.pt) |
 | Spain            | Pre-trained       | 0.969                  | [Spain_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Spain/Spain_Pre-trained.pt) |
 | Spain            | Custom            | 0.958                  | [Spain_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Spain/Spain_Custom.pt) |
-| Sweden           | Pre-trained       | 0.994                  | -                          | [Sweden_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Sweden/Sweden_Pre-trained.pt) |
-| Sweden           | Custom            | -                      | 0.976                      | [Sweden_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Sweden/Sweden_Custom.pt) |
-| Turkey           | Pre-trained       | 0.988                  | -                          | [Turkey_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Turkey/Turkey_Pre-trained.pt) |
-| Turkey           | Custom            | -                      | 0.944                      | [Turkey_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Turkey/Turkey_Custom.pt) |
-| United Kingdom   | Pre-trained       | 0.987                  | -                          | [United-Kingdom_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Pre-trained.pt) |
-| United Kingdom   | Custom            | -                      | 0.972                      | [United-Kingdom_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Custom.pt) |
-| Universal - Yolov7 | Pre-trained     | 0.953                  | -                           | [YOLOv7_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Pre-trained.pt) |
-| Universal - Yolov7 | Custom           | -                      | 0.953                      | [YOLOv7_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Custom.pt) |
-| Universal - Yolov5 | Pre-trained     | 0.979                  |                             | [YOLOv5_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Pre-trained.pt) |
-| Universal - Yolov5 | Custom           | -                      | 0.979                      | [YOLOv5_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Custom.pt) |
-| Universal - Yolov8 | Pre-trained     | 0.982                  |                            | [YOLOv8_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Pre-trained.pt) |
-| Universal - Yolov8 | Custom           | -                      | 0.982                      | [YOLOv8_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Custom.pt) |
+| Sweden           | Pre-trained       | 0.994                  | [Sweden_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Sweden/Sweden_Pre-trained.pt) |
+| Sweden           | Custom            | 0.976                  | [Sweden_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Sweden/Sweden_Custom.pt) |
+| Turkey           | Pre-trained       | 0.988                  | [Turkey_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Turkey/Turkey_Pre-trained.pt) |
+| Turkey           | Custom            | 0.944                  | [Turkey_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Turkey/Turkey_Custom.pt) |
+| United Kingdom   | Pre-trained       | 0.987                  | [United-Kingdom_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Pre-trained.pt) |
+| United Kingdom   | Custom            | 0.972                  | [United-Kingdom_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/United%20Kingdom/United-Kingdom_Custom.pt) |
+| Universal - Yolov7 | Pre-trained     | 0.953                  | [YOLOv7_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Pre-trained.pt) |
+| Universal - Yolov7 | Custom          | 0.953                  | [YOLOv7_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv7/YOLOv7_Custom.pt) |
+| Universal - Yolov5 | Pre-trained     | 0.979                  | [YOLOv5_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Pre-trained.pt) |
+| Universal - Yolov5 | Custom          | 0.979                  | [YOLOv5_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv5/YOLOv5_Custom.pt) |
+| Universal - Yolov8 | Pre-trained     | 0.982                  | [YOLOv8_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Pre-trained.pt) |
+| Universal - Yolov8 | Custom          | 0.982                  | [YOLOv8_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Universal/YOLOv8/YOLOv8_Custom.pt) |
 
 
 
