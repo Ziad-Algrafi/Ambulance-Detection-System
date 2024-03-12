@@ -39,10 +39,10 @@ Layered Architecture: The system architecture consists of multiple layers, inclu
 
 ## Models
 
-| Country          | Model Type        | Accuracy -              |   Models           |
+| Country          | Model Type        | Accuracy -             |   Models           |
 | ---------------- | ----------------- | ---------------------- | ------------------- |
 | Germany          | Pre-trained       | 0.985                  | [Germany_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Germany/Germany_Pre-trained.pt) |
-| Germany          | Custom             0.956                   | [Germany_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Germany/Germany_Custom.pt) |
+| Germany          | Custom            | 0.956                  | [Germany_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Germany/Germany_Custom.pt) |
 | Italy            | Pre-trained       | 0.945                  | [Italy_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Italy/Italy_Pre-trained.pt) |
 | Italy            | Custom            | 0.903                  | [Italy_Custom.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Italy/Italy_Custom.pt) |
 | Japan            | Pre-trained       | 0.995                  | [Japan_Pre-trained.pt](https://github.com/BaseelAlharbi/Ambulance-Detection-System/blob/main/Models/Japan/Japan_Pre-trained.pt) |
