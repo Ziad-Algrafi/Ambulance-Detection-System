@@ -70,15 +70,9 @@ Layered Architecture: The system architecture consists of multiple layers, inclu
 
 
 
+# contact
 
+Access to Data and Models: For access to the dataset and the YOLOv8 model provided in the dataset and model directories respectively,
+please contact us at: ziadalgurafi@gmail.com, tnoor@taibahu.edu.sa.
 
-# Usage
-To use the system, follow these steps:
-
-Clone the Repository: Clone this repository to your local machine.
-Dataset: Access the dataset provided in the dataset directory for training and evaluation.
-Model: Use the YOLOv8 model provided in the model directory for ambulance detection.
-Run the System: Deploy the system and integrate it with traffic cameras and signaling systems for real-time ambulance detection.
-
-
-
+Deploy the system and integrate it with traffic cameras and signaling systems for real-time ambulance detection. For any assistance regarding the system, please contact us at basil.khalid.alharbi@gmail.com.
