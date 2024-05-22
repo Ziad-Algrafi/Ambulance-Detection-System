@@ -73,6 +73,6 @@ Layered Architecture: The system architecture consists of multiple layers, inclu
 # contact
 
 Access to Data and Models: For access to the dataset and the YOLOv8 model provided in the dataset and model directories respectively,
-please contact us at: ziadalgurafi@gmail.com, tnoor@taibahu.edu.sa, anoor@taibahu.edu.sa.
+please contact us at: ziadalgurafi@gmail.com.
 
 Deploy the system and integrate it with traffic cameras and signaling systems for real-time ambulance detection. For any assistance regarding the system, please contact us at basil.khalid.alharbi@gmail.com.
